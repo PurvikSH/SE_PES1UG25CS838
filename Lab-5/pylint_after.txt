@@ -1,0 +1,7 @@
+************* Module attendance_tracker
+attendance_tracker.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+attendance_tracker.py:142:4: C0415: Import outside toplevel (ssl) (import-outside-toplevel)
+
+------------------------------------------------------------------
+Your code has been rated at 9.78/10 (previous run: 9.78/10, +0.00)
+
